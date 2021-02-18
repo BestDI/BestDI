@@ -1,6 +1,6 @@
-### 👋 I'M A FE ENGINEER.
+### 👋 I'M A FE ENGINEER. 👯
 
-沉淀，成为更好的自己！！！
+> 沉淀，成为更好的自己！！！
 
 <!--
 **BestDI/BestDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
